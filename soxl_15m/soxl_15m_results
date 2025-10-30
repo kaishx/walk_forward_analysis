@@ -1,10 +1,10 @@
-C:\Users\chuka\PycharmProjects\Quant_WFA\.venv\Scripts\python.exe "C:\Users\chuka\PycharmProjects\Quant_WFA\.venv\Z-Optimizer (SOXL 60m).py" 
-Fetching 60min data for SOXL...
-Fetching 60min data for SOXS...
-Data acquired successfully. Total 60m RTH bars: 28626
-Z-Scores calculated. Usable 60m RTH bars: 28427
+C:\Users\chuka\PycharmProjects\Quant_WFA\.venv\Scripts\python.exe "C:\Users\chuka\PycharmProjects\Quant_WFA\.venv\Z-Optimizer (SOXL 15m).py" 
+Fetching 15min data for SOXL...
+Fetching 15min data for SOXS...
+Data acquired successfully. Total 15m RTH bars: 28626
+Z-Scores calculated. Usable 15m RTH bars: 28427
 
-Starting Grid Search for 378 combinations on 60m data...
+Starting Grid Search for 378 combinations on 15m data...
 Tested Z_Entry=2.0, Z_Exit=0.3, Z_SL=3.5: Sharpe=0.22, Calmar=0.08, PnL=8469.70, Trades=914
 Tested Z_Entry=2.0, Z_Exit=0.3, Z_SL=3.9: Sharpe=0.16, Calmar=0.06, PnL=6305.91, Trades=647
 Tested Z_Entry=2.0, Z_Exit=0.3, Z_SL=4.3: Sharpe=0.21, Calmar=0.08, PnL=8205.30, Trades=487
@@ -267,7 +267,7 @@ Tested Z_Entry=5.2, Z_Exit=2.8, Z_SL=5.5: Sharpe=-0.97, Calmar=-0.20, PnL=-8107.
 Tested Z_Entry=5.2, Z_Exit=2.8, Z_SL=5.9: Sharpe=-0.98, Calmar=-0.20, PnL=-8340.83, Trades=82
 
 ==================================================
-🥇 Overall Best Parameters (Maximizing Calmar Ratio) on 60m Data:
+🥇 Overall Best Parameters (Maximizing Calmar Ratio) on 15m Data:
   Lookback Window: 200 bars
   Z_Entry: 4.4
   Z_Exit: 0.3
@@ -453,13 +453,13 @@ Tested Z_Entry=5.2, Z_Exit=2.8, Z_SL=5.9: Sharpe=-0.98, Calmar=-0.20, PnL=-8340.
 | 2025-10-06 13:45:00+00:00 | 2025-10-07 14:15:00+00:00 | LONG_SPREAD (L:A/S:B) | NORMAL_EXIT | -6.4974   | 0.0717   | 42.66           | 41.905         | 119.5      | 4.1578          | 4.255          | 1179.01    | $-204.82    |
 | 2025-10-10 15:30:00+00:00 | 2025-10-20 13:45:00+00:00 | LONG_SPREAD (L:A/S:B) | NORMAL_EXIT | -5.0659   | -0.2667  | 37.74           | 42.3           | 141.29     | 4.5914          | 3.8501         | 1016.62    | $1,397.90   |
 | 2025-10-22 17:45:00+00:00 | 2025-10-28 16:30:00+00:00 | LONG_SPREAD (L:A/S:B) | NORMAL_EXIT | -4.5125   | -0.2778  | 36.515          | 47.3479        | 144.96     | 4.391           | 3.375          | 1071.88    | $2,659.42   |
-C:\Users\chuka\PycharmProjects\Quant_WFA\.venv\Z-Optimizer (SOXL 60m).py:392: FutureWarning:
+C:\Users\chuka\PycharmProjects\Quant_WFA\.venv\Z-Optimizer (SOXL 15m).py:392: FutureWarning:
 
 The provided callable <built-in function max> is currently using SeriesGroupBy.max. In a future version of pandas, the provided callable will be used directly. To keep current behavior pass the string "max" instead.
 
 
 ==================================================
-🏆 Overall Best Parameters (Maximizing Sharpe Ratio) on 60m Data:
+🏆 Overall Best Parameters (Maximizing Sharpe Ratio) on 15m Data:
   Lookback Window: 200 bars
   Z_Entry: 4.4
   Z_Exit: 0.3
@@ -679,7 +679,7 @@ The provided callable <built-in function max> is currently using SeriesGroupBy.m
 | 2025-10-10 16:00:00+00:00 | 2025-10-10 17:00:00+00:00 | LONG_SPREAD (L:A/S:B) | STOP_LOSS   | -4.6838   | -4.7447  | 37.61           | 36.22          | 141.83     | 4.6112          | 4.755          | 1011.82    | $-342.65    |
 | 2025-10-10 17:15:00+00:00 | 2025-10-20 13:45:00+00:00 | LONG_SPREAD (L:A/S:B) | NORMAL_EXIT | -4.6822   | -0.2667  | 37.24           | 42.3           | 142.98     | 4.6444          | 3.8501         | 1006.68    | $1,523.08   |
 | 2025-10-22 17:45:00+00:00 | 2025-10-28 16:30:00+00:00 | LONG_SPREAD (L:A/S:B) | NORMAL_EXIT | -4.5125   | -0.2778  | 36.515          | 47.3479        | 144.96     | 4.391           | 3.375          | 1071.88    | $2,659.42   |
-C:\Users\chuka\PycharmProjects\Quant_WFA\.venv\Z-Optimizer (SOXL 60m).py:392: FutureWarning:
+C:\Users\chuka\PycharmProjects\Quant_WFA\.venv\Z-Optimizer (SOXL 15m).py:392: FutureWarning:
 
 The provided callable <built-in function max> is currently using SeriesGroupBy.max. In a future version of pandas, the provided callable will be used directly. To keep current behavior pass the string "max" instead.
 
