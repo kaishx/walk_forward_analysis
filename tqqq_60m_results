@@ -1,0 +1,371 @@
+C:\Users\chuka\PycharmProjects\Quant_WFA\.venv\Scripts\python.exe "C:\Users\chuka\PycharmProjects\Quant_WFA\.venv\Z-Optimizer (TQQQ 60M).py" 
+Fetching 1Hour data for TQQQ...
+Fetching 1Hour data for SQQQ...
+Data acquired successfully. Total 15m RTH bars: 6606
+Z-Scores calculated. Usable 15m RTH bars: 6407
+
+Starting Grid Search for 378 combinations on 60m data...
+Tested Z_Entry=2.0, Z_Exit=0.3, Z_SL=3.5: Sharpe=0.06, Calmar=0.02, PnL=1459.86, Trades=141
+Tested Z_Entry=2.0, Z_Exit=0.3, Z_SL=3.9: Sharpe=0.10, Calmar=0.04, PnL=2531.32, Trades=86
+Tested Z_Entry=2.0, Z_Exit=0.3, Z_SL=4.3: Sharpe=0.04, Calmar=0.02, PnL=1149.37, Trades=65
+Tested Z_Entry=2.0, Z_Exit=0.3, Z_SL=4.7: Sharpe=0.06, Calmar=0.03, PnL=1503.83, Trades=54
+Tested Z_Entry=2.0, Z_Exit=0.3, Z_SL=5.1: Sharpe=0.05, Calmar=0.02, PnL=1247.79, Trades=48
+Tested Z_Entry=2.0, Z_Exit=0.3, Z_SL=5.5: Sharpe=0.03, Calmar=0.02, PnL=924.31, Trades=45
+Tested Z_Entry=2.0, Z_Exit=0.3, Z_SL=5.9: Sharpe=0.02, Calmar=0.01, PnL=650.41, Trades=42
+Tested Z_Entry=2.0, Z_Exit=0.8, Z_SL=3.5: Sharpe=0.17, Calmar=0.06, PnL=3186.87, Trades=155
+Tested Z_Entry=2.0, Z_Exit=0.8, Z_SL=3.9: Sharpe=0.18, Calmar=0.08, PnL=3859.33, Trades=100
+Tested Z_Entry=2.0, Z_Exit=0.8, Z_SL=4.3: Sharpe=0.22, Calmar=0.09, PnL=4707.43, Trades=79
+Tested Z_Entry=2.0, Z_Exit=0.8, Z_SL=4.7: Sharpe=0.22, Calmar=0.10, PnL=5081.64, Trades=68
+Tested Z_Entry=2.0, Z_Exit=0.8, Z_SL=5.1: Sharpe=0.21, Calmar=0.10, PnL=4826.34, Trades=62
+Tested Z_Entry=2.0, Z_Exit=0.8, Z_SL=5.5: Sharpe=0.20, Calmar=0.09, PnL=4504.48, Trades=59
+Tested Z_Entry=2.0, Z_Exit=0.8, Z_SL=5.9: Sharpe=0.18, Calmar=0.08, PnL=4231.33, Trades=56
+Tested Z_Entry=2.0, Z_Exit=1.3, Z_SL=3.5: Sharpe=0.15, Calmar=0.05, PnL=2458.51, Trades=176
+Tested Z_Entry=2.0, Z_Exit=1.3, Z_SL=3.9: Sharpe=0.19, Calmar=0.07, PnL=3379.93, Trades=122
+Tested Z_Entry=2.0, Z_Exit=1.3, Z_SL=4.3: Sharpe=0.24, Calmar=0.10, PnL=4422.69, Trades=100
+Tested Z_Entry=2.0, Z_Exit=1.3, Z_SL=4.7: Sharpe=0.24, Calmar=0.10, PnL=4572.61, Trades=90
+Tested Z_Entry=2.0, Z_Exit=1.3, Z_SL=5.1: Sharpe=0.21, Calmar=0.09, PnL=4037.50, Trades=83
+Tested Z_Entry=2.0, Z_Exit=1.3, Z_SL=5.5: Sharpe=0.19, Calmar=0.08, PnL=3655.79, Trades=81
+Tested Z_Entry=2.0, Z_Exit=1.3, Z_SL=5.9: Sharpe=0.18, Calmar=0.08, PnL=3387.82, Trades=78
+Tested Z_Entry=2.0, Z_Exit=1.8, Z_SL=3.5: Sharpe=-0.28, Calmar=-0.09, PnL=-3887.87, Trades=215
+Tested Z_Entry=2.0, Z_Exit=1.8, Z_SL=3.9: Sharpe=-0.20, Calmar=-0.07, PnL=-3079.65, Trades=161
+Tested Z_Entry=2.0, Z_Exit=1.8, Z_SL=4.3: Sharpe=-0.13, Calmar=-0.05, PnL=-2074.36, Trades=139
+Tested Z_Entry=2.0, Z_Exit=1.8, Z_SL=4.7: Sharpe=-0.12, Calmar=-0.04, PnL=-1916.07, Trades=129
+Tested Z_Entry=2.0, Z_Exit=1.8, Z_SL=5.1: Sharpe=-0.15, Calmar=-0.06, PnL=-2451.47, Trades=122
+Tested Z_Entry=2.0, Z_Exit=1.8, Z_SL=5.5: Sharpe=-0.18, Calmar=-0.07, PnL=-2833.52, Trades=120
+Tested Z_Entry=2.0, Z_Exit=1.8, Z_SL=5.9: Sharpe=-0.19, Calmar=-0.07, PnL=-3100.67, Trades=117
+Tested Z_Entry=2.4, Z_Exit=0.3, Z_SL=3.5: Sharpe=0.22, Calmar=0.09, PnL=5060.99, Trades=135
+Tested Z_Entry=2.4, Z_Exit=0.3, Z_SL=3.9: Sharpe=0.24, Calmar=0.11, PnL=5970.98, Trades=81
+Tested Z_Entry=2.4, Z_Exit=0.3, Z_SL=4.3: Sharpe=0.25, Calmar=0.12, PnL=6447.83, Trades=60
+Tested Z_Entry=2.4, Z_Exit=0.3, Z_SL=4.7: Sharpe=0.27, Calmar=0.13, PnL=7110.17, Trades=51
+Tested Z_Entry=2.4, Z_Exit=0.3, Z_SL=5.1: Sharpe=0.26, Calmar=0.12, PnL=6854.13, Trades=45
+Tested Z_Entry=2.4, Z_Exit=0.3, Z_SL=5.5: Sharpe=0.25, Calmar=0.12, PnL=6530.65, Trades=42
+Tested Z_Entry=2.4, Z_Exit=0.3, Z_SL=5.9: Sharpe=0.23, Calmar=0.11, PnL=6256.73, Trades=39
+Tested Z_Entry=2.4, Z_Exit=0.8, Z_SL=3.5: Sharpe=0.40, Calmar=0.15, PnL=7106.44, Trades=144
+Tested Z_Entry=2.4, Z_Exit=0.8, Z_SL=3.9: Sharpe=0.40, Calmar=0.18, PnL=7828.14, Trades=90
+Tested Z_Entry=2.4, Z_Exit=0.8, Z_SL=4.3: Sharpe=0.41, Calmar=0.19, PnL=8338.69, Trades=69
+Tested Z_Entry=2.4, Z_Exit=0.8, Z_SL=4.7: Sharpe=0.42, Calmar=0.21, PnL=9023.80, Trades=60
+Tested Z_Entry=2.4, Z_Exit=0.8, Z_SL=5.1: Sharpe=0.41, Calmar=0.20, PnL=8768.49, Trades=54
+Tested Z_Entry=2.4, Z_Exit=0.8, Z_SL=5.5: Sharpe=0.40, Calmar=0.19, PnL=8446.63, Trades=51
+Tested Z_Entry=2.4, Z_Exit=0.8, Z_SL=5.9: Sharpe=0.38, Calmar=0.19, PnL=8173.46, Trades=48
+Tested Z_Entry=2.4, Z_Exit=1.3, Z_SL=3.5: Sharpe=0.45, Calmar=0.20, PnL=6954.27, Trades=155
+Tested Z_Entry=2.4, Z_Exit=1.3, Z_SL=3.9: Sharpe=0.47, Calmar=0.22, PnL=7929.39, Trades=102
+Tested Z_Entry=2.4, Z_Exit=1.3, Z_SL=4.3: Sharpe=0.51, Calmar=0.24, PnL=8637.08, Trades=80
+Tested Z_Entry=2.4, Z_Exit=1.3, Z_SL=4.7: Sharpe=0.53, Calmar=0.26, PnL=9086.10, Trades=72
+Tested Z_Entry=2.4, Z_Exit=1.3, Z_SL=5.1: Sharpe=0.50, Calmar=0.24, PnL=8550.99, Trades=65
+Tested Z_Entry=2.4, Z_Exit=1.3, Z_SL=5.5: Sharpe=0.48, Calmar=0.23, PnL=8169.28, Trades=63
+Tested Z_Entry=2.4, Z_Exit=1.3, Z_SL=5.9: Sharpe=0.46, Calmar=0.22, PnL=7901.30, Trades=60
+Tested Z_Entry=2.4, Z_Exit=1.8, Z_SL=3.5: Sharpe=-0.42, Calmar=-0.12, PnL=-5276.63, Trades=171
+Tested Z_Entry=2.4, Z_Exit=1.8, Z_SL=3.9: Sharpe=-0.33, Calmar=-0.11, PnL=-4574.54, Trades=119
+Tested Z_Entry=2.4, Z_Exit=1.8, Z_SL=4.3: Sharpe=-0.28, Calmar=-0.09, PnL=-3903.19, Trades=97
+Tested Z_Entry=2.4, Z_Exit=1.8, Z_SL=4.7: Sharpe=-0.24, Calmar=-0.08, PnL=-3437.29, Trades=89
+Tested Z_Entry=2.4, Z_Exit=1.8, Z_SL=5.1: Sharpe=-0.27, Calmar=-0.09, PnL=-3972.69, Trades=82
+Tested Z_Entry=2.4, Z_Exit=1.8, Z_SL=5.5: Sharpe=-0.30, Calmar=-0.10, PnL=-4354.74, Trades=80
+Tested Z_Entry=2.4, Z_Exit=1.8, Z_SL=5.9: Sharpe=-0.32, Calmar=-0.11, PnL=-4621.88, Trades=77
+Tested Z_Entry=2.4, Z_Exit=2.3, Z_SL=3.5: Sharpe=0.59, Calmar=0.34, PnL=5387.89, Trades=214
+Tested Z_Entry=2.4, Z_Exit=2.3, Z_SL=3.9: Sharpe=0.61, Calmar=0.36, PnL=6123.49, Trades=162
+Tested Z_Entry=2.4, Z_Exit=2.3, Z_SL=4.3: Sharpe=0.71, Calmar=0.42, PnL=7158.75, Trades=140
+Tested Z_Entry=2.4, Z_Exit=2.3, Z_SL=4.7: Sharpe=0.76, Calmar=0.44, PnL=7224.20, Trades=132
+Tested Z_Entry=2.4, Z_Exit=2.3, Z_SL=5.1: Sharpe=0.70, Calmar=0.41, PnL=6750.49, Trades=126
+Tested Z_Entry=2.4, Z_Exit=2.3, Z_SL=5.5: Sharpe=0.66, Calmar=0.39, PnL=6369.12, Trades=124
+Tested Z_Entry=2.4, Z_Exit=2.3, Z_SL=5.9: Sharpe=0.63, Calmar=0.37, PnL=6103.98, Trades=121
+Tested Z_Entry=2.8, Z_Exit=0.3, Z_SL=3.5: Sharpe=0.00, Calmar=0.00, PnL=44.92, Trades=130
+Tested Z_Entry=2.8, Z_Exit=0.3, Z_SL=3.9: Sharpe=0.04, Calmar=0.02, PnL=937.13, Trades=76
+Tested Z_Entry=2.8, Z_Exit=0.3, Z_SL=4.3: Sharpe=0.06, Calmar=0.03, PnL=1415.41, Trades=55
+Tested Z_Entry=2.8, Z_Exit=0.3, Z_SL=4.7: Sharpe=0.08, Calmar=0.04, PnL=2077.76, Trades=46
+Tested Z_Entry=2.8, Z_Exit=0.3, Z_SL=5.1: Sharpe=0.07, Calmar=0.03, PnL=1821.71, Trades=40
+Tested Z_Entry=2.8, Z_Exit=0.3, Z_SL=5.5: Sharpe=0.06, Calmar=0.03, PnL=1498.23, Trades=37
+Tested Z_Entry=2.8, Z_Exit=0.3, Z_SL=5.9: Sharpe=0.05, Calmar=0.02, PnL=1224.25, Trades=34
+Tested Z_Entry=2.8, Z_Exit=0.8, Z_SL=3.5: Sharpe=0.12, Calmar=0.05, PnL=2053.10, Trades=136
+Tested Z_Entry=2.8, Z_Exit=0.8, Z_SL=3.9: Sharpe=0.15, Calmar=0.06, PnL=2717.70, Trades=83
+Tested Z_Entry=2.8, Z_Exit=0.8, Z_SL=4.3: Sharpe=0.17, Calmar=0.07, PnL=3177.99, Trades=63
+Tested Z_Entry=2.8, Z_Exit=0.8, Z_SL=4.7: Sharpe=0.20, Calmar=0.09, PnL=3863.10, Trades=54
+Tested Z_Entry=2.8, Z_Exit=0.8, Z_SL=5.1: Sharpe=0.18, Calmar=0.09, PnL=3607.79, Trades=48
+Tested Z_Entry=2.8, Z_Exit=0.8, Z_SL=5.5: Sharpe=0.17, Calmar=0.08, PnL=3285.93, Trades=45
+Tested Z_Entry=2.8, Z_Exit=0.8, Z_SL=5.9: Sharpe=0.15, Calmar=0.07, PnL=3012.69, Trades=42
+Tested Z_Entry=2.8, Z_Exit=1.3, Z_SL=3.5: Sharpe=0.20, Calmar=0.09, PnL=2910.14, Trades=142
+Tested Z_Entry=2.8, Z_Exit=1.3, Z_SL=3.9: Sharpe=0.25, Calmar=0.12, PnL=3860.28, Trades=90
+Tested Z_Entry=2.8, Z_Exit=1.3, Z_SL=4.3: Sharpe=0.29, Calmar=0.15, PnL=4477.84, Trades=69
+Tested Z_Entry=2.8, Z_Exit=1.3, Z_SL=4.7: Sharpe=0.32, Calmar=0.16, PnL=4926.86, Trades=61
+Tested Z_Entry=2.8, Z_Exit=1.3, Z_SL=5.1: Sharpe=0.28, Calmar=0.15, PnL=4391.75, Trades=54
+Tested Z_Entry=2.8, Z_Exit=1.3, Z_SL=5.5: Sharpe=0.26, Calmar=0.13, PnL=4010.04, Trades=52
+Tested Z_Entry=2.8, Z_Exit=1.3, Z_SL=5.9: Sharpe=0.24, Calmar=0.12, PnL=3742.11, Trades=49
+Tested Z_Entry=2.8, Z_Exit=1.8, Z_SL=3.5: Sharpe=-0.41, Calmar=-0.13, PnL=-4554.37, Trades=146
+Tested Z_Entry=2.8, Z_Exit=1.8, Z_SL=3.9: Sharpe=-0.31, Calmar=-0.12, PnL=-3794.77, Trades=95
+Tested Z_Entry=2.8, Z_Exit=1.8, Z_SL=4.3: Sharpe=-0.26, Calmar=-0.10, PnL=-3204.59, Trades=74
+Tested Z_Entry=2.8, Z_Exit=1.8, Z_SL=4.7: Sharpe=-0.22, Calmar=-0.09, PnL=-2738.69, Trades=66
+Tested Z_Entry=2.8, Z_Exit=1.8, Z_SL=5.1: Sharpe=-0.26, Calmar=-0.11, PnL=-3274.09, Trades=59
+Tested Z_Entry=2.8, Z_Exit=1.8, Z_SL=5.5: Sharpe=-0.29, Calmar=-0.12, PnL=-3656.14, Trades=57
+Tested Z_Entry=2.8, Z_Exit=1.8, Z_SL=5.9: Sharpe=-0.31, Calmar=-0.12, PnL=-3923.24, Trades=54
+Tested Z_Entry=2.8, Z_Exit=2.3, Z_SL=3.5: Sharpe=0.69, Calmar=0.67, PnL=5701.76, Trades=155
+Tested Z_Entry=2.8, Z_Exit=2.3, Z_SL=3.9: Sharpe=0.68, Calmar=0.68, PnL=6266.46, Trades=104
+Tested Z_Entry=2.8, Z_Exit=2.3, Z_SL=4.3: Sharpe=0.78, Calmar=0.80, PnL=7221.06, Trades=83
+Tested Z_Entry=2.8, Z_Exit=2.3, Z_SL=4.7: Sharpe=0.84, Calmar=0.85, PnL=7286.07, Trades=75
+Tested Z_Entry=2.8, Z_Exit=2.3, Z_SL=5.1: Sharpe=0.78, Calmar=0.79, PnL=6812.36, Trades=69
+Tested Z_Entry=2.8, Z_Exit=2.3, Z_SL=5.5: Sharpe=0.74, Calmar=0.75, PnL=6430.99, Trades=67
+Tested Z_Entry=2.8, Z_Exit=2.3, Z_SL=5.9: Sharpe=0.70, Calmar=0.72, PnL=6165.90, Trades=64
+Tested Z_Entry=3.2, Z_Exit=0.3, Z_SL=3.5: Sharpe=0.23, Calmar=0.14, PnL=4292.41, Trades=124
+Tested Z_Entry=3.2, Z_Exit=0.3, Z_SL=3.9: Sharpe=0.17, Calmar=0.09, PnL=3585.35, Trades=72
+Tested Z_Entry=3.2, Z_Exit=0.3, Z_SL=4.3: Sharpe=0.04, Calmar=0.01, PnL=773.70, Trades=52
+Tested Z_Entry=3.2, Z_Exit=0.3, Z_SL=4.7: Sharpe=0.06, Calmar=0.03, PnL=1376.10, Trades=43
+Tested Z_Entry=3.2, Z_Exit=0.3, Z_SL=5.1: Sharpe=0.05, Calmar=0.02, PnL=1120.06, Trades=37
+Tested Z_Entry=3.2, Z_Exit=0.3, Z_SL=5.5: Sharpe=0.03, Calmar=0.02, PnL=796.58, Trades=34
+Tested Z_Entry=3.2, Z_Exit=0.3, Z_SL=5.9: Sharpe=0.02, Calmar=0.01, PnL=522.52, Trades=31
+Tested Z_Entry=3.2, Z_Exit=0.8, Z_SL=3.5: Sharpe=0.42, Calmar=0.24, PnL=5800.69, Trades=127
+Tested Z_Entry=3.2, Z_Exit=0.8, Z_SL=3.9: Sharpe=0.48, Calmar=0.27, PnL=7291.68, Trades=75
+Tested Z_Entry=3.2, Z_Exit=0.8, Z_SL=4.3: Sharpe=0.36, Calmar=0.20, PnL=5787.03, Trades=56
+Tested Z_Entry=3.2, Z_Exit=0.8, Z_SL=4.7: Sharpe=0.37, Calmar=0.23, PnL=6412.65, Trades=47
+Tested Z_Entry=3.2, Z_Exit=0.8, Z_SL=5.1: Sharpe=0.36, Calmar=0.22, PnL=6157.34, Trades=41
+Tested Z_Entry=3.2, Z_Exit=0.8, Z_SL=5.5: Sharpe=0.34, Calmar=0.21, PnL=5835.48, Trades=38
+Tested Z_Entry=3.2, Z_Exit=0.8, Z_SL=5.9: Sharpe=0.31, Calmar=0.20, PnL=5562.17, Trades=35
+Tested Z_Entry=3.2, Z_Exit=1.3, Z_SL=3.5: Sharpe=0.16, Calmar=0.07, PnL=1797.86, Trades=131
+Tested Z_Entry=3.2, Z_Exit=1.3, Z_SL=3.9: Sharpe=0.28, Calmar=0.13, PnL=3429.23, Trades=80
+Tested Z_Entry=3.2, Z_Exit=1.3, Z_SL=4.3: Sharpe=0.45, Calmar=0.22, PnL=5648.68, Trades=60
+Tested Z_Entry=3.2, Z_Exit=1.3, Z_SL=4.7: Sharpe=0.47, Calmar=0.24, PnL=6038.59, Trades=52
+Tested Z_Entry=3.2, Z_Exit=1.3, Z_SL=5.1: Sharpe=0.43, Calmar=0.22, PnL=5503.48, Trades=45
+Tested Z_Entry=3.2, Z_Exit=1.3, Z_SL=5.5: Sharpe=0.40, Calmar=0.20, PnL=5121.77, Trades=43
+Tested Z_Entry=3.2, Z_Exit=1.3, Z_SL=5.9: Sharpe=0.38, Calmar=0.19, PnL=4853.77, Trades=40
+Tested Z_Entry=3.2, Z_Exit=1.8, Z_SL=3.5: Sharpe=-0.14, Calmar=-0.06, PnL=-1345.82, Trades=132
+Tested Z_Entry=3.2, Z_Exit=1.8, Z_SL=3.9: Sharpe=-0.01, Calmar=-0.00, PnL=-67.17, Trades=82
+Tested Z_Entry=3.2, Z_Exit=1.8, Z_SL=4.3: Sharpe=0.03, Calmar=0.02, PnL=334.21, Trades=62
+Tested Z_Entry=3.2, Z_Exit=1.8, Z_SL=4.7: Sharpe=0.07, Calmar=0.04, PnL=740.98, Trades=54
+Tested Z_Entry=3.2, Z_Exit=1.8, Z_SL=5.1: Sharpe=0.02, Calmar=0.01, PnL=205.58, Trades=47
+Tested Z_Entry=3.2, Z_Exit=1.8, Z_SL=5.5: Sharpe=-0.02, Calmar=-0.01, PnL=-176.47, Trades=45
+Tested Z_Entry=3.2, Z_Exit=1.8, Z_SL=5.9: Sharpe=-0.04, Calmar=-0.02, PnL=-443.63, Trades=42
+Tested Z_Entry=3.2, Z_Exit=2.3, Z_SL=3.5: Sharpe=0.54, Calmar=0.46, PnL=3748.02, Trades=136
+Tested Z_Entry=3.2, Z_Exit=2.3, Z_SL=3.9: Sharpe=0.59, Calmar=0.62, PnL=4564.67, Trades=87
+Tested Z_Entry=3.2, Z_Exit=2.3, Z_SL=4.3: Sharpe=0.82, Calmar=0.95, PnL=6786.32, Trades=67
+Tested Z_Entry=3.2, Z_Exit=2.3, Z_SL=4.7: Sharpe=0.90, Calmar=1.01, PnL=6792.16, Trades=59
+Tested Z_Entry=3.2, Z_Exit=2.3, Z_SL=5.1: Sharpe=0.83, Calmar=0.90, PnL=6318.45, Trades=53
+Tested Z_Entry=3.2, Z_Exit=2.3, Z_SL=5.5: Sharpe=0.78, Calmar=0.80, PnL=5937.08, Trades=51
+Tested Z_Entry=3.2, Z_Exit=2.3, Z_SL=5.9: Sharpe=0.73, Calmar=0.76, PnL=5671.93, Trades=48
+Tested Z_Entry=3.2, Z_Exit=2.8, Z_SL=3.5: Sharpe=0.27, Calmar=0.14, PnL=1568.45, Trades=138
+Tested Z_Entry=3.2, Z_Exit=2.8, Z_SL=3.9: Sharpe=0.39, Calmar=0.35, PnL=2400.16, Trades=90
+Tested Z_Entry=3.2, Z_Exit=2.8, Z_SL=4.3: Sharpe=0.60, Calmar=0.56, PnL=3684.22, Trades=70
+Tested Z_Entry=3.2, Z_Exit=2.8, Z_SL=4.7: Sharpe=0.61, Calmar=0.60, PnL=3696.30, Trades=62
+Tested Z_Entry=3.2, Z_Exit=2.8, Z_SL=5.1: Sharpe=0.54, Calmar=0.53, PnL=3223.01, Trades=56
+Tested Z_Entry=3.2, Z_Exit=2.8, Z_SL=5.5: Sharpe=0.48, Calmar=0.46, PnL=2841.37, Trades=54
+Tested Z_Entry=3.2, Z_Exit=2.8, Z_SL=5.9: Sharpe=0.43, Calmar=0.42, PnL=2574.38, Trades=51
+Tested Z_Entry=3.6, Z_Exit=0.3, Z_SL=3.9: Sharpe=0.27, Calmar=0.12, PnL=4301.84, Trades=64
+Tested Z_Entry=3.6, Z_Exit=0.3, Z_SL=4.3: Sharpe=0.08, Calmar=0.03, PnL=1375.19, Trades=45
+Tested Z_Entry=3.6, Z_Exit=0.3, Z_SL=4.7: Sharpe=0.23, Calmar=0.09, PnL=4461.34, Trades=37
+Tested Z_Entry=3.6, Z_Exit=0.3, Z_SL=5.1: Sharpe=0.16, Calmar=0.07, PnL=3120.43, Trades=31
+Tested Z_Entry=3.6, Z_Exit=0.3, Z_SL=5.5: Sharpe=0.16, Calmar=0.07, PnL=3129.57, Trades=28
+Tested Z_Entry=3.6, Z_Exit=0.3, Z_SL=5.9: Sharpe=0.16, Calmar=0.07, PnL=3111.50, Trades=26
+Tested Z_Entry=3.6, Z_Exit=0.8, Z_SL=3.9: Sharpe=0.78, Calmar=0.61, PnL=9006.24, Trades=65
+Tested Z_Entry=3.6, Z_Exit=0.8, Z_SL=4.3: Sharpe=0.50, Calmar=0.37, PnL=6342.50, Trades=46
+Tested Z_Entry=3.6, Z_Exit=0.8, Z_SL=4.7: Sharpe=0.65, Calmar=0.58, PnL=9512.83, Trades=38
+Tested Z_Entry=3.6, Z_Exit=0.8, Z_SL=5.1: Sharpe=0.56, Calmar=0.50, PnL=8172.66, Trades=32
+Tested Z_Entry=3.6, Z_Exit=0.8, Z_SL=5.5: Sharpe=0.56, Calmar=0.50, PnL=8183.26, Trades=29
+Tested Z_Entry=3.6, Z_Exit=0.8, Z_SL=5.9: Sharpe=0.54, Calmar=0.50, PnL=8165.94, Trades=27
+Tested Z_Entry=3.6, Z_Exit=1.3, Z_SL=3.9: Sharpe=0.35, Calmar=0.18, PnL=3215.01, Trades=66
+Tested Z_Entry=3.6, Z_Exit=1.3, Z_SL=4.3: Sharpe=0.54, Calmar=0.30, PnL=5416.34, Trades=47
+Tested Z_Entry=3.6, Z_Exit=1.3, Z_SL=4.7: Sharpe=0.69, Calmar=0.41, PnL=7221.44, Trades=39
+Tested Z_Entry=3.6, Z_Exit=1.3, Z_SL=5.1: Sharpe=0.64, Calmar=0.38, PnL=6693.65, Trades=33
+Tested Z_Entry=3.6, Z_Exit=1.3, Z_SL=5.5: Sharpe=0.63, Calmar=0.38, PnL=6643.17, Trades=31
+Tested Z_Entry=3.6, Z_Exit=1.3, Z_SL=5.9: Sharpe=0.63, Calmar=0.38, PnL=6631.16, Trades=29
+Tested Z_Entry=3.6, Z_Exit=1.8, Z_SL=3.9: Sharpe=0.27, Calmar=0.20, PnL=1993.43, Trades=66
+Tested Z_Entry=3.6, Z_Exit=1.8, Z_SL=4.3: Sharpe=0.31, Calmar=0.22, PnL=2323.56, Trades=47
+Tested Z_Entry=3.6, Z_Exit=1.8, Z_SL=4.7: Sharpe=0.49, Calmar=0.43, PnL=4172.53, Trades=39
+Tested Z_Entry=3.6, Z_Exit=1.8, Z_SL=5.1: Sharpe=0.41, Calmar=0.35, PnL=3569.39, Trades=33
+Tested Z_Entry=3.6, Z_Exit=1.8, Z_SL=5.5: Sharpe=0.41, Calmar=0.33, PnL=3518.49, Trades=31
+Tested Z_Entry=3.6, Z_Exit=1.8, Z_SL=5.9: Sharpe=0.41, Calmar=0.33, PnL=3507.31, Trades=29
+Tested Z_Entry=3.6, Z_Exit=2.3, Z_SL=3.9: Sharpe=0.65, Calmar=0.83, PnL=3713.20, Trades=69
+Tested Z_Entry=3.6, Z_Exit=2.3, Z_SL=4.3: Sharpe=0.93, Calmar=1.43, PnL=5929.71, Trades=49
+Tested Z_Entry=3.6, Z_Exit=2.3, Z_SL=4.7: Sharpe=1.22, Calmar=1.80, PnL=6776.05, Trades=42
+Tested Z_Entry=3.6, Z_Exit=2.3, Z_SL=5.1: Sharpe=1.11, Calmar=1.38, PnL=6302.34, Trades=36
+Tested Z_Entry=3.6, Z_Exit=2.3, Z_SL=5.5: Sharpe=1.10, Calmar=1.26, PnL=6252.87, Trades=34
+Tested Z_Entry=3.6, Z_Exit=2.3, Z_SL=5.9: Sharpe=1.07, Calmar=1.25, PnL=6243.70, Trades=32
+Tested Z_Entry=3.6, Z_Exit=2.8, Z_SL=3.9: Sharpe=0.60, Calmar=0.39, PnL=2759.75, Trades=70
+Tested Z_Entry=3.6, Z_Exit=2.8, Z_SL=4.3: Sharpe=0.88, Calmar=0.74, PnL=4032.43, Trades=50
+Tested Z_Entry=3.6, Z_Exit=2.8, Z_SL=4.7: Sharpe=0.90, Calmar=0.96, PnL=3915.55, Trades=43
+Tested Z_Entry=3.6, Z_Exit=2.8, Z_SL=5.1: Sharpe=0.82, Calmar=0.85, PnL=3442.25, Trades=37
+Tested Z_Entry=3.6, Z_Exit=2.8, Z_SL=5.5: Sharpe=0.82, Calmar=0.83, PnL=3392.35, Trades=35
+Tested Z_Entry=3.6, Z_Exit=2.8, Z_SL=5.9: Sharpe=0.81, Calmar=0.83, PnL=3381.34, Trades=33
+Tested Z_Entry=4.0, Z_Exit=0.3, Z_SL=4.3: Sharpe=0.23, Calmar=0.12, PnL=2954.51, Trades=37
+Tested Z_Entry=4.0, Z_Exit=0.3, Z_SL=4.7: Sharpe=0.23, Calmar=0.12, PnL=3518.87, Trades=31
+Tested Z_Entry=4.0, Z_Exit=0.3, Z_SL=5.1: Sharpe=0.14, Calmar=0.07, PnL=2177.96, Trades=25
+Tested Z_Entry=4.0, Z_Exit=0.3, Z_SL=5.5: Sharpe=0.02, Calmar=0.01, PnL=297.36, Trades=21
+Tested Z_Entry=4.0, Z_Exit=0.3, Z_SL=5.9: Sharpe=0.14, Calmar=0.06, PnL=2169.03, Trades=20
+Tested Z_Entry=4.0, Z_Exit=0.8, Z_SL=4.3: Sharpe=0.19, Calmar=0.08, PnL=1888.13, Trades=37
+Tested Z_Entry=4.0, Z_Exit=0.8, Z_SL=4.7: Sharpe=0.19, Calmar=0.09, PnL=2479.17, Trades=31
+Tested Z_Entry=4.0, Z_Exit=0.8, Z_SL=5.1: Sharpe=0.09, Calmar=0.04, PnL=1139.00, Trades=25
+Tested Z_Entry=4.0, Z_Exit=0.8, Z_SL=5.5: Sharpe=-0.04, Calmar=-0.01, PnL=-446.95, Trades=21
+Tested Z_Entry=4.0, Z_Exit=0.8, Z_SL=5.9: Sharpe=0.08, Calmar=0.04, PnL=1132.29, Trades=20
+Tested Z_Entry=4.0, Z_Exit=1.3, Z_SL=4.3: Sharpe=0.45, Calmar=0.46, PnL=3205.72, Trades=37
+Tested Z_Entry=4.0, Z_Exit=1.3, Z_SL=4.7: Sharpe=0.37, Calmar=0.25, PnL=3215.02, Trades=31
+Tested Z_Entry=4.0, Z_Exit=1.3, Z_SL=5.1: Sharpe=0.31, Calmar=0.19, PnL=2687.22, Trades=25
+Tested Z_Entry=4.0, Z_Exit=1.3, Z_SL=5.5: Sharpe=0.38, Calmar=0.22, PnL=3254.33, Trades=22
+Tested Z_Entry=4.0, Z_Exit=1.3, Z_SL=5.9: Sharpe=0.30, Calmar=0.18, PnL=2624.74, Trades=21
+Tested Z_Entry=4.0, Z_Exit=1.8, Z_SL=4.3: Sharpe=-0.13, Calmar=-0.05, PnL=-745.24, Trades=37
+Tested Z_Entry=4.0, Z_Exit=1.8, Z_SL=4.7: Sharpe=-0.03, Calmar=-0.01, PnL=-216.32, Trades=31
+Tested Z_Entry=4.0, Z_Exit=1.8, Z_SL=5.1: Sharpe=-0.11, Calmar=-0.04, PnL=-819.46, Trades=25
+Tested Z_Entry=4.0, Z_Exit=1.8, Z_SL=5.5: Sharpe=-0.02, Calmar=-0.01, PnL=-117.75, Trades=22
+Tested Z_Entry=4.0, Z_Exit=1.8, Z_SL=5.9: Sharpe=-0.12, Calmar=-0.04, PnL=-881.54, Trades=21
+Tested Z_Entry=4.0, Z_Exit=2.3, Z_SL=4.3: Sharpe=0.56, Calmar=0.74, PnL=3062.93, Trades=38
+Tested Z_Entry=4.0, Z_Exit=2.3, Z_SL=4.7: Sharpe=0.72, Calmar=0.87, PnL=3271.96, Trades=33
+Tested Z_Entry=4.0, Z_Exit=2.3, Z_SL=5.1: Sharpe=0.60, Calmar=0.61, PnL=2798.25, Trades=27
+Tested Z_Entry=4.0, Z_Exit=2.3, Z_SL=5.5: Sharpe=0.47, Calmar=0.43, PnL=2130.17, Trades=24
+Tested Z_Entry=4.0, Z_Exit=2.3, Z_SL=5.9: Sharpe=0.57, Calmar=0.55, PnL=2739.62, Trades=23
+Tested Z_Entry=4.0, Z_Exit=2.8, Z_SL=4.3: Sharpe=0.62, Calmar=0.56, PnL=2309.26, Trades=39
+Tested Z_Entry=4.0, Z_Exit=2.8, Z_SL=4.7: Sharpe=0.47, Calmar=0.37, PnL=1629.59, Trades=34
+Tested Z_Entry=4.0, Z_Exit=2.8, Z_SL=5.1: Sharpe=0.36, Calmar=0.25, PnL=1156.29, Trades=28
+Tested Z_Entry=4.0, Z_Exit=2.8, Z_SL=5.5: Sharpe=0.26, Calmar=0.16, PnL=812.76, Trades=25
+Tested Z_Entry=4.0, Z_Exit=2.8, Z_SL=5.9: Sharpe=0.34, Calmar=0.22, PnL=1095.37, Trades=24
+Tested Z_Entry=4.4, Z_Exit=0.3, Z_SL=4.7: Sharpe=0.36, Calmar=0.25, PnL=4839.06, Trades=28
+Tested Z_Entry=4.4, Z_Exit=0.3, Z_SL=5.1: Sharpe=0.26, Calmar=0.15, PnL=3498.15, Trades=22
+Tested Z_Entry=4.4, Z_Exit=0.3, Z_SL=5.5: Sharpe=0.13, Calmar=0.07, PnL=1617.55, Trades=18
+Tested Z_Entry=4.4, Z_Exit=0.3, Z_SL=5.9: Sharpe=0.25, Calmar=0.14, PnL=3489.22, Trades=17
+Tested Z_Entry=4.4, Z_Exit=0.8, Z_SL=4.7: Sharpe=0.42, Calmar=0.30, PnL=4524.51, Trades=28
+Tested Z_Entry=4.4, Z_Exit=0.8, Z_SL=5.1: Sharpe=0.30, Calmar=0.16, PnL=3184.34, Trades=22
+Tested Z_Entry=4.4, Z_Exit=0.8, Z_SL=5.5: Sharpe=0.15, Calmar=0.08, PnL=1598.39, Trades=18
+Tested Z_Entry=4.4, Z_Exit=0.8, Z_SL=5.9: Sharpe=0.28, Calmar=0.16, PnL=3177.63, Trades=17
+Tested Z_Entry=4.4, Z_Exit=1.3, Z_SL=4.7: Sharpe=0.77, Calmar=0.96, PnL=5218.78, Trades=28
+Tested Z_Entry=4.4, Z_Exit=1.3, Z_SL=5.1: Sharpe=0.70, Calmar=0.75, PnL=4690.99, Trades=22
+Tested Z_Entry=4.4, Z_Exit=1.3, Z_SL=5.5: Sharpe=0.80, Calmar=0.79, PnL=5258.09, Trades=19
+Tested Z_Entry=4.4, Z_Exit=1.3, Z_SL=5.9: Sharpe=0.69, Calmar=0.70, PnL=4628.50, Trades=18
+Tested Z_Entry=4.4, Z_Exit=1.8, Z_SL=4.7: Sharpe=0.31, Calmar=0.19, PnL=1798.92, Trades=28
+Tested Z_Entry=4.4, Z_Exit=1.8, Z_SL=5.1: Sharpe=0.20, Calmar=0.10, PnL=1195.78, Trades=22
+Tested Z_Entry=4.4, Z_Exit=1.8, Z_SL=5.5: Sharpe=0.33, Calmar=0.24, PnL=1897.48, Trades=19
+Tested Z_Entry=4.4, Z_Exit=1.8, Z_SL=5.9: Sharpe=0.19, Calmar=0.11, PnL=1133.70, Trades=18
+Tested Z_Entry=4.4, Z_Exit=2.3, Z_SL=4.7: Sharpe=0.72, Calmar=0.84, PnL=3141.05, Trades=29
+Tested Z_Entry=4.4, Z_Exit=2.3, Z_SL=5.1: Sharpe=0.59, Calmar=0.58, PnL=2667.34, Trades=23
+Tested Z_Entry=4.4, Z_Exit=2.3, Z_SL=5.5: Sharpe=0.46, Calmar=0.40, PnL=1999.26, Trades=20
+Tested Z_Entry=4.4, Z_Exit=2.3, Z_SL=5.9: Sharpe=0.55, Calmar=0.52, PnL=2608.71, Trades=19
+Tested Z_Entry=4.4, Z_Exit=2.8, Z_SL=4.7: Sharpe=0.61, Calmar=0.62, PnL=2023.00, Trades=29
+Tested Z_Entry=4.4, Z_Exit=2.8, Z_SL=5.1: Sharpe=0.50, Calmar=0.48, PnL=1549.71, Trades=23
+Tested Z_Entry=4.4, Z_Exit=2.8, Z_SL=5.5: Sharpe=0.40, Calmar=0.37, PnL=1206.18, Trades=20
+Tested Z_Entry=4.4, Z_Exit=2.8, Z_SL=5.9: Sharpe=0.48, Calmar=0.46, PnL=1488.79, Trades=19
+Tested Z_Entry=4.8, Z_Exit=0.3, Z_SL=5.1: Sharpe=0.52, Calmar=0.38, PnL=5480.13, Trades=19
+Tested Z_Entry=4.8, Z_Exit=0.3, Z_SL=5.5: Sharpe=0.37, Calmar=0.25, PnL=3599.53, Trades=15
+Tested Z_Entry=4.8, Z_Exit=0.3, Z_SL=5.9: Sharpe=0.49, Calmar=0.37, PnL=5471.20, Trades=14
+Tested Z_Entry=4.8, Z_Exit=0.8, Z_SL=5.1: Sharpe=0.46, Calmar=0.31, PnL=4245.22, Trades=19
+Tested Z_Entry=4.8, Z_Exit=0.8, Z_SL=5.5: Sharpe=0.31, Calmar=0.19, PnL=2659.27, Trades=15
+Tested Z_Entry=4.8, Z_Exit=0.8, Z_SL=5.9: Sharpe=0.42, Calmar=0.31, PnL=4238.51, Trades=14
+Tested Z_Entry=4.8, Z_Exit=1.3, Z_SL=5.1: Sharpe=0.44, Calmar=0.31, PnL=2745.88, Trades=19
+Tested Z_Entry=4.8, Z_Exit=1.3, Z_SL=5.5: Sharpe=0.54, Calmar=0.50, PnL=3312.98, Trades=16
+Tested Z_Entry=4.8, Z_Exit=1.3, Z_SL=5.9: Sharpe=0.43, Calmar=0.34, PnL=2683.39, Trades=15
+Tested Z_Entry=4.8, Z_Exit=1.8, Z_SL=5.1: Sharpe=0.17, Calmar=0.10, PnL=943.83, Trades=19
+Tested Z_Entry=4.8, Z_Exit=1.8, Z_SL=5.5: Sharpe=0.31, Calmar=0.24, PnL=1645.53, Trades=16
+Tested Z_Entry=4.8, Z_Exit=1.8, Z_SL=5.9: Sharpe=0.16, Calmar=0.10, PnL=881.74, Trades=15
+Tested Z_Entry=4.8, Z_Exit=2.3, Z_SL=5.1: Sharpe=0.36, Calmar=0.34, PnL=1566.88, Trades=20
+Tested Z_Entry=4.8, Z_Exit=2.3, Z_SL=5.5: Sharpe=0.22, Calmar=0.18, PnL=898.79, Trades=17
+Tested Z_Entry=4.8, Z_Exit=2.3, Z_SL=5.9: Sharpe=0.34, Calmar=0.30, PnL=1508.24, Trades=16
+Tested Z_Entry=4.8, Z_Exit=2.8, Z_SL=5.1: Sharpe=0.76, Calmar=1.15, PnL=2150.63, Trades=20
+Tested Z_Entry=4.8, Z_Exit=2.8, Z_SL=5.5: Sharpe=0.67, Calmar=0.97, PnL=1807.10, Trades=17
+Tested Z_Entry=4.8, Z_Exit=2.8, Z_SL=5.9: Sharpe=0.74, Calmar=1.12, PnL=2089.71, Trades=16
+Tested Z_Entry=5.2, Z_Exit=0.3, Z_SL=5.5: Sharpe=0.73, Calmar=2.50, PnL=4668.40, Trades=12
+Tested Z_Entry=5.2, Z_Exit=0.3, Z_SL=5.9: Sharpe=0.35, Calmar=0.27, PnL=3413.19, Trades=12
+Tested Z_Entry=5.2, Z_Exit=0.8, Z_SL=5.5: Sharpe=0.71, Calmar=2.01, PnL=3748.95, Trades=12
+Tested Z_Entry=5.2, Z_Exit=0.8, Z_SL=5.9: Sharpe=0.28, Calmar=0.21, PnL=2411.17, Trades=12
+Tested Z_Entry=5.2, Z_Exit=1.3, Z_SL=5.5: Sharpe=0.68, Calmar=1.46, PnL=2714.55, Trades=12
+Tested Z_Entry=5.2, Z_Exit=1.3, Z_SL=5.9: Sharpe=0.09, Calmar=0.05, PnL=466.77, Trades=12
+Tested Z_Entry=5.2, Z_Exit=1.8, Z_SL=5.5: Sharpe=0.35, Calmar=0.32, PnL=890.10, Trades=12
+Tested Z_Entry=5.2, Z_Exit=1.8, Z_SL=5.9: Sharpe=-0.35, Calmar=-0.16, PnL=-1523.82, Trades=12
+Tested Z_Entry=5.2, Z_Exit=2.3, Z_SL=5.5: Sharpe=0.18, Calmar=0.14, PnL=441.47, Trades=12
+Tested Z_Entry=5.2, Z_Exit=2.3, Z_SL=5.9: Sharpe=-0.04, Calmar=-0.03, PnL=-141.38, Trades=12
+Tested Z_Entry=5.2, Z_Exit=2.8, Z_SL=5.5: Sharpe=0.53, Calmar=0.76, PnL=1420.50, Trades=12
+C:\Users\chuka\PycharmProjects\Quant_WFA\.venv\Z-Optimizer (TQQQ 60M).py:392: FutureWarning:
+
+The provided callable <built-in function max> is currently using SeriesGroupBy.max. In a future version of pandas, the provided callable will be used directly. To keep current behavior pass the string "max" instead.
+
+Tested Z_Entry=5.2, Z_Exit=2.8, Z_SL=5.9: Sharpe=0.62, Calmar=0.92, PnL=1711.77, Trades=12
+
+==================================================
+🥇 Overall Best Parameters (Maximizing Calmar Ratio) on 60m Data:
+  Lookback Window: 200 bars
+  Z_Entry: 5.2
+  Z_Exit: 0.3
+  Z_StopLoss: 5.5
+--- Performance Metrics ---
+  Total PnL: $4668.40
+  Sharpe Ratio: 0.73
+  Calmar Ratio: 2.50
+  Max Drawdown: $476.80
+  Trades Executed: 12
+==================================================
+
+================================================================================
+📋 Detailed Trade Log (Best Calmar Run)
+================================================================================
+| Entry_Time                | Exit_Time                 | Direction             | Exit_Type   | Entry_Z   | Exit_Z   | Entry_Price_A   | Exit_Price_A   | Shares_A   | Entry_Price_B   | Exit_Price_B   | Shares_B   | Total_PnL   |
+|:--------------------------|:--------------------------|:----------------------|:------------|:----------|:---------|:----------------|:---------------|:-----------|:----------------|:---------------|:-----------|:------------|
+| 2021-09-20 15:00:00+00:00 | 2021-09-20 16:00:00+00:00 | LONG_SPREAD (L:A/S:B) | STOP_LOSS   | -5.5941   | -5.9246  | 63.22           | 62.7           | 82.27      | 171.16          | 172.34         | 28.04      | $-75.86     |
+| 2021-09-20 17:00:00+00:00 | 2021-09-20 19:00:00+00:00 | LONG_SPREAD (L:A/S:B) | STOP_LOSS   | -5.895    | -5.8153  | 62.8            | 63.84          | 82.62      | 172.24          | 169.74         | 27.93      | $155.76     |
+| 2024-07-17 16:00:00+00:00 | 2024-07-17 17:00:00+00:00 | LONG_SPREAD (L:A/S:B) | STOP_LOSS   | -5.3151   | -5.706   | 74              | 73.63          | 68.56      | 36.73           | 36.93          | 134.13     | $-52.19     |
+| 2025-04-09 18:00:00+00:00 | 2025-04-09 19:00:00+00:00 | LONG_SPREAD (L:A/S:B) | STOP_LOSS   | -9.2457   | -7.1481  | 49.09           | 52.48          | 91.58      | 37.72           | 33.24          | 145.93     | $964.21     |
+| 2025-04-10 14:00:00+00:00 | 2025-04-10 15:00:00+00:00 | LONG_SPREAD (L:A/S:B) | STOP_LOSS   | -8.966    | -7.4051  | 46.83           | 44.32          | 95.97      | 36.64           | 38.21          | 150.26     | $-476.80    |
+| 2025-04-10 16:00:00+00:00 | 2025-04-10 17:00:00+00:00 | LONG_SPREAD (L:A/S:B) | STOP_LOSS   | -6.6022   | -5.9371  | 44.61           | 45.82          | 100.4      | 38.02           | 37.26          | 145.21     | $231.85     |
+| 2025-04-10 18:00:00+00:00 | 2025-05-08 16:00:00+00:00 | LONG_SPREAD (L:A/S:B) | NORMAL_EXIT | -5.4065   | -0.231   | 46.45           | 60.44          | 96.1       | 36.87           | 27.17          | 150.15     | $2,800.93   |
+| 2025-10-10 16:00:00+00:00 | 2025-10-10 17:00:00+00:00 | LONG_SPREAD (L:A/S:B) | STOP_LOSS   | -5.6622   | -7.3312  | 100.347         | 100.6          | 50.09      | 15.6            | 15.5601        | 318.84     | $25.38      |
+| 2025-10-10 18:00:00+00:00 | 2025-10-10 19:00:00+00:00 | LONG_SPREAD (L:A/S:B) | STOP_LOSS   | -6.5045   | -6.8807  | 99.4481         | 97.07          | 50.55      | 15.7198         | 16.0399        | 316.36     | $-221.47    |
+| 2025-10-13 14:00:00+00:00 | 2025-10-13 15:00:00+00:00 | LONG_SPREAD (L:A/S:B) | STOP_LOSS   | -8.466    | -8.0839  | 101.27          | 102.85         | 49.64      | 15.335          | 15.0781        | 324.3      | $161.74     |
+| 2025-10-13 16:00:00+00:00 | 2025-10-13 17:00:00+00:00 | LONG_SPREAD (L:A/S:B) | STOP_LOSS   | -7.4026   | -6.7934  | 103.496         | 103.26         | 48.61      | 14.9695         | 15.0131        | 331.94     | $-25.95     |
+| 2025-10-13 18:00:00+00:00 | 2025-10-27 15:00:00+00:00 | LONG_SPREAD (L:A/S:B) | NORMAL_EXIT | -5.8845   | -0.237   | 102.95          | 115.53         | 48.92      | 15.065          | 13.349         | 329.48     | $1,180.81   |
+
+==================================================
+🏆 Overall Best Parameters (Maximizing Sharpe Ratio) on 60m Data:
+  Lookback Window: 200 bars
+  Z_Entry: 3.6
+  Z_Exit: 2.3
+  Z_StopLoss: 4.7
+--- Performance Metrics ---
+  Total PnL: $6776.05
+  Sharpe Ratio: 1.22
+  Calmar Ratio: 1.80
+  Max Drawdown: $960.36
+  Trades Executed: 42
+==================================================
+
+================================================================================
+📋 Detailed Trade Log (Best Sharpe Run)
+================================================================================
+| Entry_Time                | Exit_Time                 | Direction             | Exit_Type   | Entry_Z   | Exit_Z   | Entry_Price_A   | Exit_Price_A   | Shares_A   | Entry_Price_B   | Exit_Price_B   | Shares_B   | Total_PnL   |
+|:--------------------------|:--------------------------|:----------------------|:------------|:----------|:---------|:----------------|:---------------|:-----------|:----------------|:---------------|:-----------|:------------|
+| 2021-09-20 15:00:00+00:00 | 2021-09-20 16:00:00+00:00 | LONG_SPREAD (L:A/S:B) | STOP_LOSS   | -5.5941   | -5.9246  | 63.22           | 62.7           | 82.27      | 171.16          | 172.34         | 28.04      | $-75.86     |
+| 2021-09-20 17:00:00+00:00 | 2021-09-20 18:00:00+00:00 | LONG_SPREAD (L:A/S:B) | STOP_LOSS   | -5.895    | -5.1127  | 62.8            | 61.64          | 82.62      | 172.24          | 174.84         | 27.93      | $-168.47    |
+| 2021-09-20 19:00:00+00:00 | 2021-09-23 15:00:00+00:00 | LONG_SPREAD (L:A/S:B) | NORMAL_EXIT | -5.8153   | -2.2832  | 63.84           | 67.8           | 81         | 169.74          | 159.54         | 28.45      | $610.94     |
+| 2021-10-14 17:00:00+00:00 | 2021-10-21 18:00:00+00:00 | LONG_SPREAD (L:A/S:B) | NORMAL_EXIT | -3.7053   | -2.2471  | 63.71           | 68.94          | 73.2       | 166.1           | 153.18         | 32.13      | $797.93     |
+| 2021-11-23 16:00:00+00:00 | 2021-11-24 15:00:00+00:00 | LONG_SPREAD (L:A/S:B) | NORMAL_EXIT | -3.6741   | -2.2223  | 79.28           | 79.84          | 64.83      | 131.21          | 130.17         | 37.04      | $74.83      |
+| 2021-11-26 17:00:00+00:00 | 2021-12-08 19:00:00+00:00 | LONG_SPREAD (L:A/S:B) | NORMAL_EXIT | -3.8713   | -2.2333  | 76.69           | 80.93          | 67.08      | 135.17          | 125.07         | 35.92      | $647.23     |
+| 2022-03-18 15:00:00+00:00 | 2022-03-23 17:00:00+00:00 | LONG_SPREAD (L:A/S:B) | NORMAL_EXIT | -3.6114   | -2.199   | 49.28           | 52.2           | 87.28      | 161.91          | 151.63         | 35.2       | $616.69     |
+| 2022-05-27 15:00:00+00:00 | 2022-06-03 18:00:00+00:00 | LONG_SPREAD (L:A/S:B) | NORMAL_EXIT | -3.7749   | -2.2226  | 31.27           | 30.98          | 132.17     | 200.46          | 198.84         | 29.27      | $9.09       |
+| 2022-08-22 15:00:00+00:00 | 2022-08-25 15:00:00+00:00 | LONG_SPREAD (L:A/S:B) | NORMAL_EXIT | -4.1867   | -2.25    | 31.76           | 32.13          | 170.57     | 162.08          | 159.68         | 28.28      | $130.97     |
+| 2022-08-26 19:00:00+00:00 | 2022-09-01 19:00:00+00:00 | LONG_SPREAD (L:A/S:B) | NORMAL_EXIT | -3.6684   | -2.2873  | 28.92           | 26.63          | 187.18     | 174.49          | 188.8          | 26.29      | $-804.80    |
+| 2023-02-10 17:00:00+00:00 | 2023-02-13 16:00:00+00:00 | LONG_SPREAD (L:A/S:B) | NORMAL_EXIT | -3.652    | -2.2011  | 22.69           | 23.95          | 234.03     | 155.54          | 147.16         | 30.15      | $547.55     |
+| 2023-08-29 15:00:00+00:00 | 2023-09-05 14:00:00+00:00 | LONG_SPREAD (L:A/S:B) | NORMAL_EXIT | -3.7478   | -2.2867  | 39.86           | 41.07          | 119.88     | 77.97           | 75.69          | 66.97      | $297.74     |
+| 2024-01-02 16:00:00+00:00 | 2024-01-10 17:00:00+00:00 | LONG_SPREAD (L:A/S:B) | NORMAL_EXIT | -4.7553   | -2.1106  | 47.65           | 48.79          | 106.26     | 61.86           | 60.13          | 79.8       | $259.20     |
+| 2024-05-03 15:00:00+00:00 | 2024-05-09 17:00:00+00:00 | LONG_SPREAD (L:A/S:B) | NORMAL_EXIT | -3.6279   | -2.2274  | 55.6            | 57.7           | 85.59      | 49.84           | 48.02          | 105.16     | $371.13     |
+| 2024-07-11 16:00:00+00:00 | 2024-07-11 19:00:00+00:00 | LONG_SPREAD (L:A/S:B) | NORMAL_EXIT | -4.8781   | -2.0513  | 78.45           | 78.25          | 64.54      | 34.88           | 34.9           | 141.55     | $-15.74     |
+| 2024-07-12 14:00:00+00:00 | 2024-07-15 16:00:00+00:00 | LONG_SPREAD (L:A/S:B) | NORMAL_EXIT | -4.8649   | -2.1224  | 80.65           | 80.87          | 62.81      | 33.9            | 33.84          | 145.57     | $22.55      |
+| 2024-07-17 15:00:00+00:00 | 2024-07-17 16:00:00+00:00 | LONG_SPREAD (L:A/S:B) | STOP_LOSS   | -5.108    | -5.3151  | 74.27           | 74             | 68.31      | 36.66           | 36.73          | 134.39     | $-27.85     |
+| 2024-07-17 17:00:00+00:00 | 2024-07-17 18:00:00+00:00 | LONG_SPREAD (L:A/S:B) | STOP_LOSS   | -5.706    | -5.1636  | 73.63           | 73.57          | 68.91      | 36.93           | 36.93          | 133.4      | $-4.13      |
+| 2024-07-17 19:00:00+00:00 | 2024-07-18 14:00:00+00:00 | LONG_SPREAD (L:A/S:B) | STOP_LOSS   | -5.1347   | -5.0137  | 73.16           | 73.11          | 69.36      | 37.12           | 37.18          | 132.7      | $-11.43     |
+| 2024-07-18 15:00:00+00:00 | 2024-07-18 16:00:00+00:00 | LONG_SPREAD (L:A/S:B) | STOP_LOSS   | -4.408    | -4.9705  | 71.02           | 72.29          | 71.45      | 38.21           | 37.55          | 128.91     | $175.82     |
+| 2024-07-18 17:00:00+00:00 | 2024-07-29 14:00:00+00:00 | LONG_SPREAD (L:A/S:B) | NORMAL_EXIT | -4.4258   | -2.2408  | 71.85           | 64.75          | 70.62      | 37.78           | 41.3           | 130.39     | $-960.36    |
+| 2024-08-15 15:00:00+00:00 | 2024-08-21 19:00:00+00:00 | LONG_SPREAD (L:A/S:B) | NORMAL_EXIT | -3.8065   | -2.2634  | 66.96           | 70.9           | 68.34      | 38.19           | 35.97          | 142.02     | $584.56     |
+| 2024-10-23 18:00:00+00:00 | 2024-10-24 15:00:00+00:00 | LONG_SPREAD (L:A/S:B) | NORMAL_EXIT | -4.5179   | -2.1409  | 70.64           | 72.22          | 73.05      | 34.71           | 34             | 139.43     | $214.42     |
+| 2024-10-31 15:00:00+00:00 | 2024-10-31 16:00:00+00:00 | LONG_SPREAD (L:A/S:B) | STOP_LOSS   | -5.111    | -4.9771  | 69.39           | 69.56          | 75.1       | 35.2            | 35.11          | 136.05     | $25.01      |
+| 2024-10-31 17:00:00+00:00 | 2024-10-31 18:00:00+00:00 | LONG_SPREAD (L:A/S:B) | STOP_LOSS   | -4.6393   | -4.8571  | 69.03           | 69.16          | 75.45      | 35.35           | 35.29          | 135.54     | $17.94      |
+| 2024-10-31 19:00:00+00:00 | 2024-11-06 16:00:00+00:00 | LONG_SPREAD (L:A/S:B) | NORMAL_EXIT | -4.4598   | -2.0352  | 68.77           | 77.03          | 75.68      | 35.46           | 31.51          | 135.25     | $1,159.30   |
+| 2024-11-15 17:00:00+00:00 | 2024-11-19 17:00:00+00:00 | LONG_SPREAD (L:A/S:B) | NORMAL_EXIT | -3.6998   | -2.2313  | 73.43           | 75.72          | 71.91      | 32.77           | 31.77          | 144.02     | $308.70     |
+| 2024-12-19 15:00:00+00:00 | 2024-12-24 16:00:00+00:00 | LONG_SPREAD (L:A/S:B) | NORMAL_EXIT | -5.0135   | -2.2289  | 82.01           | 86.98          | 62.93      | 28.76           | 27.09          | 168.25     | $593.75     |
+| 2025-04-09 18:00:00+00:00 | 2025-04-09 19:00:00+00:00 | LONG_SPREAD (L:A/S:B) | STOP_LOSS   | -9.2457   | -7.1481  | 49.09           | 52.48          | 91.58      | 37.72           | 33.24          | 145.93     | $964.21     |
+| 2025-04-10 14:00:00+00:00 | 2025-04-10 15:00:00+00:00 | LONG_SPREAD (L:A/S:B) | STOP_LOSS   | -8.966    | -7.4051  | 46.83           | 44.32          | 95.97      | 36.64           | 38.21          | 150.26     | $-476.80    |
+| 2025-04-10 16:00:00+00:00 | 2025-04-10 17:00:00+00:00 | LONG_SPREAD (L:A/S:B) | STOP_LOSS   | -6.6022   | -5.9371  | 44.61           | 45.82          | 100.4      | 38.02           | 37.26          | 145.21     | $231.85     |
+| 2025-04-10 18:00:00+00:00 | 2025-04-10 19:00:00+00:00 | LONG_SPREAD (L:A/S:B) | STOP_LOSS   | -5.4065   | -5.0113  | 46.45           | 45.99          | 96.1       | 36.87           | 37.16          | 150.15     | $-87.75     |
+| 2025-04-11 14:00:00+00:00 | 2025-04-17 14:00:00+00:00 | LONG_SPREAD (L:A/S:B) | NORMAL_EXIT | -4.7022   | -2.261   | 45.48           | 44.49          | 97.91      | 37.58           | 38.02          | 147.61     | $-161.88    |
+| 2025-08-04 16:00:00+00:00 | 2025-08-08 16:00:00+00:00 | LONG_SPREAD (L:A/S:B) | NORMAL_EXIT | -3.8095   | -2.1302  | 87.07           | 91.66          | 57.96      | 18.25           | 17.3           | 271.44     | $523.89     |
+| 2025-08-20 15:00:00+00:00 | 2025-08-21 14:00:00+00:00 | LONG_SPREAD (L:A/S:B) | NORMAL_EXIT | -4.1139   | -2.1042  | 85.84           | 87.26          | 59.93      | 18.4            | 18.13          | 263.87     | $156.35     |
+| 2025-10-10 16:00:00+00:00 | 2025-10-10 17:00:00+00:00 | LONG_SPREAD (L:A/S:B) | STOP_LOSS   | -5.6622   | -7.3312  | 100.347         | 100.6          | 50.09      | 15.6            | 15.5601        | 318.84     | $25.38      |
+| 2025-10-10 18:00:00+00:00 | 2025-10-10 19:00:00+00:00 | LONG_SPREAD (L:A/S:B) | STOP_LOSS   | -6.5045   | -6.8807  | 99.4481         | 97.07          | 50.55      | 15.7198         | 16.0399        | 316.36     | $-221.47    |
+| 2025-10-13 14:00:00+00:00 | 2025-10-13 15:00:00+00:00 | LONG_SPREAD (L:A/S:B) | STOP_LOSS   | -8.466    | -8.0839  | 101.27          | 102.85         | 49.64      | 15.335          | 15.0781        | 324.3      | $161.74     |
+| 2025-10-13 16:00:00+00:00 | 2025-10-13 17:00:00+00:00 | LONG_SPREAD (L:A/S:B) | STOP_LOSS   | -7.4026   | -6.7934  | 103.496         | 103.26         | 48.61      | 14.9695         | 15.0131        | 331.94     | $-25.95     |
+| 2025-10-13 18:00:00+00:00 | 2025-10-13 19:00:00+00:00 | LONG_SPREAD (L:A/S:B) | STOP_LOSS   | -5.8845   | -5.2677  | 102.95          | 103.249        | 48.92      | 15.065          | 15.015         | 329.48     | $31.11      |
+| 2025-10-14 14:00:00+00:00 | 2025-10-14 15:00:00+00:00 | LONG_SPREAD (L:A/S:B) | STOP_LOSS   | -5.0032   | -5.0369  | 100.358         | 101.77         | 50.23      | 15.435          | 15.225         | 321.27     | $138.37     |
+| 2025-10-14 16:00:00+00:00 | 2025-10-17 18:00:00+00:00 | LONG_SPREAD (L:A/S:B) | NORMAL_EXIT | -4.5781   | -2.2293  | 102.85          | 104.08         | 49.05      | 15.0635         | 14.8812        | 328.97     | $120.30     |
+C:\Users\chuka\PycharmProjects\Quant_WFA\.venv\Z-Optimizer (TQQQ 60M).py:392: FutureWarning:
+
+The provided callable <built-in function max> is currently using SeriesGroupBy.max. In a future version of pandas, the provided callable will be used directly. To keep current behavior pass the string "max" instead.
+
+
+Process finished with exit code 0
