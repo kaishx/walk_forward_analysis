@@ -1,11 +1,11 @@
 C:\Users\chuka\PycharmProjects\Quant_WFA\.venv\Scripts\python.exe "C:\Users\chuka\PycharmProjects\Quant_WFA\.venv\Z-Optimizer (SOXL 1M).py" 
 Fetching 1Min data for SOXL...
 Fetching 1Min data for SOXS...
-Data acquired successfully. Total 15m RTH bars: 427662
-Z-Scores calculated. Usable 15m RTH bars: 427463
+Data acquired successfully. Total 1m RTH bars: 427662
+Z-Scores calculated. Usable 1m RTH bars: 427463
 
 ==================================================
-🥇 Overall Best Parameters (Maximizing Calmar Ratio) on 60m Data:
+🥇 Overall Best Parameters (Maximizing Calmar Ratio) on 1m Data:
   Lookback Window: 200 bars
   Z_Entry: 3.2
   Z_Exit: 1.3
@@ -3275,7 +3275,7 @@ C:\Users\chuka\PycharmProjects\Quant_WFA\.venv\Z-Optimizer (SOXL 1M).py:392: Fut
 The provided callable <built-in function max> is currently using SeriesGroupBy.max. In a future version of pandas, the provided callable will be used directly. To keep current behavior pass the string "max" instead.
 
 ==================================================
-🏆 Overall Best Parameters (Maximizing Sharpe Ratio) on 60m Data:
+🏆 Overall Best Parameters (Maximizing Sharpe Ratio) on 1m Data:
   Lookback Window: 200 bars
   Z_Entry: 3.2
   Z_Exit: 1.3
