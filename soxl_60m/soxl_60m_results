@@ -1,8 +1,8 @@
 C:\Users\chuka\PycharmProjects\Quant_WFA\.venv\Scripts\python.exe "C:\Users\chuka\PycharmProjects\Quant_WFA\.venv\Z-Optimizer (SOXL 60M).py" 
 Fetching 1Hour data for SOXL...
 Fetching 1Hour data for SOXS...
-Data acquired successfully. Total 15m RTH bars: 6606
-Z-Scores calculated. Usable 15m RTH bars: 6407
+Data acquired successfully. Total 60m RTH bars: 6606
+Z-Scores calculated. Usable 60m RTH bars: 6407
 
 Starting Grid Search for 378 combinations on 60m data...
 Tested Z_Entry=2.0, Z_Exit=0.3, Z_SL=3.5: Sharpe=0.89, Calmar=0.75, PnL=30735.82, Trades=104
