@@ -1,10 +1,10 @@
 C:\Users\chuka\PycharmProjects\Quant_WFA\.venv\Scripts\python.exe "C:\Users\chuka\PycharmProjects\Quant_WFA\.venv\Z-Optimizer (TQQQ 1M).py" 
 Fetching 1Min data for TQQQ...
 Fetching 1Min data for SQQQ...
-Data acquired successfully. Total 15m RTH bars: 428994
-Z-Scores calculated. Usable 15m RTH bars: 428795
+Data acquired successfully. Total 1m RTH bars: 428994
+Z-Scores calculated. Usable 1m RTH bars: 428795
 
-Starting Grid Search for 378 combinations on 60m data...
+Starting Grid Search for 378 combinations on 1m data...
 Tested Z_Entry=2.0, Z_Exit=0.3, Z_SL=3.5: Sharpe=-0.52, Calmar=-0.15, PnL=-8953.58, Trades=17438
 Tested Z_Entry=2.0, Z_Exit=0.3, Z_SL=3.9: Sharpe=-0.49, Calmar=-0.14, PnL=-8442.64, Trades=16699
 Tested Z_Entry=2.0, Z_Exit=0.3, Z_SL=4.3: Sharpe=-0.55, Calmar=-0.15, PnL=-9633.84, Trades=16254
@@ -267,7 +267,7 @@ Tested Z_Entry=5.2, Z_Exit=2.8, Z_SL=5.5: Sharpe=-0.92, Calmar=-0.18, PnL=-3125.
 Tested Z_Entry=5.2, Z_Exit=2.8, Z_SL=5.9: Sharpe=-0.87, Calmar=-0.22, PnL=-3263.74, Trades=513
 
 ==================================================
-🥇 Overall Best Parameters (Maximizing Calmar Ratio) on 60m Data:
+🥇 Overall Best Parameters (Maximizing Calmar Ratio) on 1m Data:
   Lookback Window: 200 bars
   Z_Entry: 3.6
   Z_Exit: 2.3
@@ -2502,7 +2502,7 @@ The provided callable <built-in function max> is currently using SeriesGroupBy.m
 
 
 ==================================================
-🏆 Overall Best Parameters (Maximizing Sharpe Ratio) on 60m Data:
+🏆 Overall Best Parameters (Maximizing Sharpe Ratio) on 1m Data:
   Lookback Window: 200 bars
   Z_Entry: 3.6
   Z_Exit: 2.3
